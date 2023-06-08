@@ -1,1 +1,2 @@
 Some text goes here. New line has been added in first session [1 hour] of week 5. Line for PULL git command is added.
+Adding some text while working on branches in GitHub.
